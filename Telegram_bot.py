@@ -1,4 +1,3 @@
-from cgi import test
 import telebot
 from credentials import secrets
 
